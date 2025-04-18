@@ -1,0 +1,15 @@
+[project]
+name = "mcp-quick-start"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dateparser>=1.2.1",
+    "fastapi>=0.115.12",
+    "mcp>=1.6.0",
+    "openai>=1.75.0",
+    "openai-agents>=0.0.11",
+    "requests>=2.32.3",
+    "xmltodict>=0.14.2",
+]
