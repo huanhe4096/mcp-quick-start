@@ -28,6 +28,7 @@ Pros:
 
 - Python code serves as the "language" for models.
 - Very good integration with other tools
+- The recommended tracing tool `phoenix` looks very good!
 
 Cons:
 
