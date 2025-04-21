@@ -6,7 +6,12 @@ source .venv/bin/activate
 uv sync
 ```
 
-I want to take a look a different frameworks
+I want to take a look a different frameworks. The following points need to be considered:
+
+1. Documentation: having comprehensive documents is very important for development
+2. Community support: the more people use, the better support
+3. Main contributor: person-driven, community-driven, or company-driven
+4. Showcase: big projects
 
 ## OpenAI's Agent SDK
 
@@ -35,3 +40,8 @@ Cons:
 - Bad documentation
 
 ## Microsoft's AutoGen
+
+Pros:
+
+- Documentation comprensive
+- Provide support
