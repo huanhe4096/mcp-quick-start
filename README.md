@@ -8,10 +8,11 @@ uv sync
 
 I want to take a look a different frameworks. The following points need to be considered:
 
-1. Documentation: having comprehensive documents is very important for development
-2. Community support: the more people use, the better support
-3. Main contributor: person-driven, community-driven, or company-driven
-4. Showcase: big projects
+1. Functionality: debugging, planner, Multi-agent, tool, RAG, states, streaming, integration.
+2. Documentation and learning curve: having comprehensive documents is very important for development.
+3. Development efficiency: how quickly to setup and envolve
+4. Community support: the more people use, the better support
+5. Main contributor: person-driven, community-driven, or company-driven
 
 ## OpenAI's Agent SDK
 
